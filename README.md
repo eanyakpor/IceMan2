@@ -54,10 +54,10 @@ The following **required** functionality is complete:
 ### IceMan Walkthough GIF
 
 
-<img src="![IceMan2](https://user-images.githubusercontent.com/83620487/175662155-49b8a27c-9c3a-44eb-bd12-bb66d03c37b8.gif)
-" width=250><br>
-<img src="![IceMan2 1](https://user-images.githubusercontent.com/83620487/175662396-13a10dfe-50d2-4306-b4ff-198df08387b4.gif)
-" width=250><br>
+![IceMan2](https://user-images.githubusercontent.com/83620487/175662155-49b8a27c-9c3a-44eb-bd12-bb66d03c37b8.gif)
+
+![IceMan2 1](https://user-images.githubusercontent.com/83620487/175662396-13a10dfe-50d2-4306-b4ff-198df08387b4.gif)
+
 
 ### Notes
 
